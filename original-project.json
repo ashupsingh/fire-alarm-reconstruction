@@ -1,0 +1,23 @@
+{
+  "id": "fire-alarm",
+  "name": "Fire alarm",
+  "category": "IoT / Safety",
+  "group": "Embedded & IoT",
+  "icon": "cpu",
+  "description": "Fire detection system using MQ2 gas/smoke sensor.",
+  "detail": "An MQ2-based smoke/gas detection prototype with buzzer and LED alerts when sensor readings indicate a possible hazard.",
+  "stack": [
+    "Arduino",
+    "MQ2 Gas Sensor",
+    "Buzzer",
+    "LED"
+  ],
+  "status": "Completed",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/fire_alarm.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}
